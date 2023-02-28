@@ -1,14 +1,10 @@
 {
-  "firstArray": [
-     "name": "Roberto",
-     "age": 22,
-     "favoriteQuotes": "The way to get started is to quit talking and begin doing -Walt Disney"
-  ], 
-  "secondArray": [
-    "object1": {
-      "classSection": "BSIT 3C",
-      "code": "T239",
-      "email": "2001104537@student.buksu.edu.ph"
-    }
-  ]
+	"firstArray": ["Roberto", "22", "The way to get started is to quit talking and begin doing -Walt Disney"],
+	"secondArray": [{
+		"classSection": "BSIT 3C"
+	}, {
+		"code": "T239"
+	}, {
+		"email": "2001104537@student.buksu.edu.ph"
+	}]
 }
